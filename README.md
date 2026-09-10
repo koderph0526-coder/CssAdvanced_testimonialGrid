@@ -3,6 +3,10 @@
 Canvas link for the assigmnet:
 'https://jobloop.instructure.com/courses/557/assignments/10967'
 
+## My Notes (if needed):
+
+-
+
 ## Krav til oppgaven:
 
 1. HTML-struktur:
@@ -36,3 +40,7 @@ Canvas link for the assigmnet:
 - Legg til myke avrundede hjørner med 'border-radius'.
 - Bruk 'box-shadow' for å gi et subtilt 3D-utseende.
 - Noen styling-egenskaper, som bakgrunnsfarger eller overskrifter, bør gjøres gjenbrukbare ved å tildele dem klasser.
+
+## NOTE!
+
+- Her er litt rott i filer som jeg skal få ryddet i, da det later til at jeg ikke trenger alle filene, og var begynt å finne bilder til profilbilder selv. Tenker for nå at jeg tar vare på bildene i en egen mappe (myImg) som kan ignoreres ved retting, da dette er til senere utbygging av oppgaven, ettersom at jeg liker å gå over oppgaver i senere tid å forbedre dem.
