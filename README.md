@@ -5,7 +5,7 @@ Canvas link for the assigmnet:
 
 ## My Notes (if needed):
 
--
+- Crossref with teachers repo and my own notes from class!
 
 ## Krav til oppgaven:
 
